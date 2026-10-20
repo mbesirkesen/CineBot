@@ -1,0 +1,11 @@
+backend/.env
+backend/.venv/
+backend/data/*.csv
+backend/data/*.index
+backend/data/*.faiss
+backend/data/overview_tr.json
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store
